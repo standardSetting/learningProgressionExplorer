@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learningProgressionExplorer/static/css/main.b3bfdc6c.css",
+    "main.js": "/learningProgressionExplorer/static/js/main.daab0551.js",
+    "index.html": "/learningProgressionExplorer/index.html",
+    "main.b3bfdc6c.css.map": "/learningProgressionExplorer/static/css/main.b3bfdc6c.css.map",
+    "main.daab0551.js.map": "/learningProgressionExplorer/static/js/main.daab0551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3bfdc6c.css",
+    "static/js/main.daab0551.js"
+  ]
+}
